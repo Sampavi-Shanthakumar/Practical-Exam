@@ -1,2 +1,2 @@
 # Practical-Exam
-User Login and Evens View System
+User Login and Events View System
